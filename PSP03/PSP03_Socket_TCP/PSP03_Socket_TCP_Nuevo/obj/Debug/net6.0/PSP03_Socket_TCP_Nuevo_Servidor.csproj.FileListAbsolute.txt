@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\bin\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.exe
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\bin\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\bin\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\bin\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\bin\Debug\net6.0\ref\PSP03_Socket_TCP_Nuevo_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\bin\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\ref\PSP03_Socket_TCP_Nuevo_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_Socket_TCP_Nuevo\obj\Debug\net6.0\PSP03_Socket_TCP_Nuevo_Servidor.genruntimeconfig.cache
